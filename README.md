@@ -1,4 +1,4 @@
-# AS-A-Level-Computer-Science-Programming-Assignments
+# CNS Internal Transfer Programming Assignments
 
 I've selected a few programming assignments for each programming topic that best highlight the topic. Therefore, the assignment doesn't reflect the order in which I learn those topics, and the number of each programming topic is use for categorizing purpose only. Furthermore, the programming assignments might overlap several programming topics.
 
